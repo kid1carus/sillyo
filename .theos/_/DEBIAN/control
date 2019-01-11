@@ -1,10 +1,11 @@
 Package: com.samgisaninja.sillyo
 Name: Sileo Compatibility Layer
 Depends: mobilesubstrate
-Version: 1.1
 Architecture: iphoneos-arm
 Description: Compatibility layer for Sileo/unc0ver
 Maintainer: Samg_is_a_Ninja
 Author: Samg_is_a_Ninja & sbingner
 Section: Tweaks
 Conflicts: com.pixelomer.u0sileo.backend, com.pixelomer.u0sileo
+Version: 1.1-1+debug
+Installed-Size: 124
